@@ -1,6 +1,6 @@
 // ─── CONFIGURATION ──────────────────────────────────────────
 // ⚠️ Replace with your actual Razorpay Key ID from dashboard.razorpay.com
-const RAZORPAY_KEY_ID = 'rzp_test_YourKeyIDHere';
+const RAZORPAY_KEY_ID = 'rzp_live_SQNJLwH90fjdRG';
 
 const WHATSAPP_NUMBER = '919514301061';
 
